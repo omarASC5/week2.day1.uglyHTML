@@ -1,0 +1,67 @@
+body, html {
+    background-color: rgb(53,53,53);
+    color: whitesmoke;
+}
+header {
+    font-family: 'Tangerine', cursive;
+    font-size: 72px;
+    text-align: center;
+    /* color: #FFF; */
+}
+
+h3 {
+    padding-top: 20px;
+    font-family: 'Unica One', cursive;
+    font-size: 26px;
+    text-align: center;
+}
+
+#its_about_time {
+    padding-top: 0px;
+    font-family: 'Unica One', cursive;
+    font-size: 26px;
+    text-align: center;
+}
+
+.image_center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+  
+    
+}
+
+.single_watch_images {
+    float: left;
+    max-height: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h2 {
+    font-family: 'Unica One';
+}
+
+
+.watch_container {
+    border-style: solid;
+    border-color: #FDEFA6;
+    border-radius: 13px;
+    border-width: 2px 2px 2px 2px;
+    background-color: #1A1818;
+    margin-bottom: 15px;
+   
+}
+
+.watch_description {
+    font-family: Dosis;
+}
+
+#three_watch_image {
+    width: 540px;
+    
+}
+
