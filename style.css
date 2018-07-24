@@ -43,6 +43,12 @@ img {
 
 h2 {
     font-family: 'Unica One';
+    margin-top: 16px;
+    margin-bottom: 16px;
+    font-size: 26px;
+
+    
+    
 }
 
 
@@ -53,15 +59,25 @@ h2 {
     border-width: 2px 2px 2px 2px;
     background-color: #1A1818;
     margin-bottom: 15px;
+    padding: 16px;
+    margin-left: 50px;
+    margin-right: 50px;
    
 }
 
 .watch_description {
-    font-family: Dosis;
+    font-family: 'Dosis', sans-serif;
+    font-size: 16px;
 }
 
 #three_watch_image {
     width: 540px;
-    
+    padding: 20px;
+
 }
 
+footer {
+    font-family: 'Dosis', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
